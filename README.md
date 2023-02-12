@@ -1,15 +1,15 @@
-Hi 👋 My name is jaguh1000
-==========================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jaguh
+=============================================================================================================================
 
-Android developer
------------------
+Android developer | Machine Learning Enthusiast
+-----------------------------------------------
 
 I've been coding in java since 2020
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [gw746071@gmail.com](mailto:gw746071@gmail.com)
-* 🧠  I'm learning Python for machine learning
-* 🤝  I'm open to collaborating on Interesting and challenging projects in various fields.
+* 🧠  I'm learning ML
+* 🤝  I'm open to collaborating on Interesting and challenging projects.
 * ⚡  I'm secretly spiderman... don't tell anyone
 
 <a href="https://www.github.com/gerald-wambui" target="_blank" rel="noreferrer"><img
@@ -25,6 +25,7 @@ src="https://img.shields.io/twitter/follow/jaguh_1000?logo=twitter&style=for-the
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -50,6 +51,10 @@ src="https://img.shields.io/twitter/follow/jaguh_1000?logo=twitter&style=for-the
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/gerald-wambui/TensorflowFashion_MNIST" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gerald-wambui&repo=TensorflowFashion_MNIST&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gerald-wambui/woos-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gerald-wambui&repo=woos-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/gerald-wambui/MicrosoftCatsandDogsDatasetTensorflow" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gerald-wambui&repo=MicrosoftCatsandDogsDatasetTensorflow&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
