@@ -7,7 +7,7 @@ Student and Programmer
 I've been coding in java since the stone age
 
 * 🌍  I'm based in Thika, Kenya
-* ✉️  You can contact me at [gw746071@gmail.com](mailto:gw746071@gmail.com)
+* ✉️  You can contact me at [Gmail](mailto:gw746071@gmail.com)
 * 🧠  I'm learning ML
 * 🤝  I'm open to collaborating on Interesting and challenging projects.
 * ⚡  I'm secretly spiderman... don't tell anyone
