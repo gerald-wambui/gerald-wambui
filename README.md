@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is jaguh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)welcome
 =============================================================================================================================
 
 Android developer | Machine Learning Enthusiast
 -----------------------------------------------
 
-I've been coding in java since 2020
+I've been coding in java since the stone age
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm based in Thika, Kenya
 * ✉️  You can contact me at [gw746071@gmail.com](mailto:gw746071@gmail.com)
 * 🧠  I'm learning ML
 * 🤝  I'm open to collaborating on Interesting and challenging projects.
