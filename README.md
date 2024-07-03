@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)welcome
 =============================================================================================================================
 
-Student and Programmer
+Computer Researcher
 -----------------------------------------------
 
 I've been coding in java since the stone age
 
-* 🌍  I'm based in Thika, Kenya
-* ✉️  You can contact me at jaguhdeveloper@gmail.com
+* 🌍  I'm based in Kenya
+* ✉️  You can contact me at jaguhdeveloper@gmail.com or wainaina6@icloud.com
 * 🧠  I'm teaching ML
-* 🤝  I'm open to collaborating on Interesting and challenging projects.
+* 🤝  Building kernels for fun
 * ⚡  I'm secretly spiderman... don't tell anyone
 
 <a href="https://www.github.com/gerald-wambui" target="_blank" rel="noreferrer"><img
@@ -46,6 +46,8 @@ src="https://img.shields.io/twitter/follow/jaguh_1000?logo=twitter&style=for-the
 
 
 <a href="https://github.com/gerald-wambui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-wambui&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![](https://visitcount.itsvg.in/api?id=jaguh&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+<br>
 
 <b>Top Repositories</b>
 
@@ -58,5 +60,3 @@ src="https://img.shields.io/twitter/follow/jaguh_1000?logo=twitter&style=for-the
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/geraldwaino"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-[![](https://visitcount.itsvg.in/api?id=jaguh&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
